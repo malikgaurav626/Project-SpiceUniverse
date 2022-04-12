@@ -2,7 +2,7 @@
 
 ## My First Sem project:
 
-Spice Universe is a text based action-adventure game.
+Spice Universe is a text based Action-Adventure game.
 Enter in the Spice Universe and enjoy a small dose of reality escape from the day-to-day life.
 It's got about 15-30 minutes of gameplay with immersive stories and 4 different classes to choose from.\
 There are 4 diffrent stats of enemies.
