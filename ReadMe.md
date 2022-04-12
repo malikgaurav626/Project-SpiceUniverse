@@ -63,6 +63,40 @@ Mage class will provide you with the elevated power of mages and other advantage
 • Special Ability: Alpha Eyes (14 DMG)\
 • Special Ability Uses: 3
 
+
+## Enemy Builds
+
+### [Level 0]
+• Health = 20 HP\
+• Defence = 5 DP\
+• Heals = 0\
+• Weapon = Dagger (3 DMG)\
+• Special Ability = ReRun (4 DMG)\
+• Special Ability Uses = 1
+### [Level 1]
+• Health = 40 HP\
+• Defence = 8 DP\
+• Heals = 1\
+• Weapon = Indian Sword (4 DMG)\
+• Special Ability = SelmonBhoi’sCar (50 DMG)\
+• Special Ability Uses = 1
+### [Level 2]
+• Health = 60 HP\
+• Defence = 10 DP\
+• Heals = 2\
+• Weapon = Replica (7 DMG)\
+• Special Ability = CloneRush (9 DMG)\
+• Special Ability Uses = 2
+### [Level 3]
+• Health = 90 HP\
+• Defence = 13 DP\
+• Heals = 3\
+• Weapon = MachinumBang (9 DMG)\
+• Special Ability = System OverDrive (12 DMG)\
+• Special Ability Uses = 3
+
+## Objective
+Mine 30 SpiceCrystals
 ## Usage
 just clone the repo and either use the compiled .exe file given\
 or you can compile the .cpp file given if you have the compiler set up.
