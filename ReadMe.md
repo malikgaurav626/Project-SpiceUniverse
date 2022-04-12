@@ -65,6 +65,7 @@ Mage class will provide you with the elevated power of mages and other advantage
 
 
 ## Enemy Builds
+There are 4 different stats of enemies in The SpiceUniverse
 
 ### [Level 0]
 • Health = 20 HP\
